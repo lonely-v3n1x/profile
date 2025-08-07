@@ -1,6 +1,6 @@
 export const DEFAULT_THEMES = [
-  'light',
   'dark',
+  'light',
   'cupcake',
   'bumblebee',
   'emerald',

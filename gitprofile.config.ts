@@ -93,7 +93,7 @@ const CONFIG = {
       company: 'datamaker.io',
       position: 'Data Labelling Specialist',
       from: 'May 2024',
-      to: '15th January',
+      to: '15th January 2025',
       companyLink: 'https://datamaker.io',
     },
     // {
@@ -107,7 +107,7 @@ const CONFIG = {
   certifications: [
     {
       name: 'Data Labelling',
-      body: 'Lorem ipsum dolor sit amet',
+      body: 'Data Labelling Certificate from datamaker.io',
       year: '14th December, 2023',
       link: 'https://datamarker.io',
     },
@@ -158,11 +158,11 @@ const CONFIG = {
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: { id: '', snippetVersion: 6 },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'forest',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: false,
+    disableSwitch: true,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
